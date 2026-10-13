@@ -1,0 +1,191 @@
+[
+  {
+    "sku": "TK-SS-001",
+    "name": "TK SS BAKED PIES",
+    "category": "Single Serve",
+    "promoted_retail": 1.33,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-002",
+    "name": "TK SS GLAZED PIES",
+    "category": "Single Serve",
+    "promoted_retail": 1.33,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-003",
+    "name": "TK SS 6CT MINI DONUT",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-004",
+    "name": "TK SS BARS",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-005",
+    "name": "TK SS CAKE",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-006",
+    "name": "TK SS CAKE - CUPCAKE",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-007",
+    "name": "TK SS CAKE - SNOWBALL",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-008",
+    "name": "TK SS HONEY BUN",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-SS-009",
+    "name": "TK 6CT SPINS",
+    "category": "Single Serve",
+    "promoted_retail": 2.00,
+    "distributor_rebate": 0.59
+  },
+  {
+    "sku": "TK-SS-010",
+    "name": "TK DIPPNSTX",
+    "category": "Single Serve",
+    "promoted_retail": 1.50,
+    "distributor_rebate": 0.60
+  },
+  {
+    "sku": "TK-FP-001",
+    "name": "TK FP 5 CT MINIS",
+    "category": "Family Pack",
+    "promoted_retail": 3.00,
+    "distributor_rebate": 1.27
+  },
+  {
+    "sku": "TK-FP-002",
+    "name": "TK BAGGED DONUTS",
+    "category": "Family Pack",
+    "promoted_retail": 3.00,
+    "distributor_rebate": 0.44
+  },
+  {
+    "sku": "TK-FP-003",
+    "name": "TK 6 SNOBL 16/NP/CTN//RSC/030",
+    "category": "Family Pack",
+    "promoted_retail": 3.00,
+    "distributor_rebate": 0.99
+  },
+  {
+    "sku": "TK-FP-004",
+    "name": "TK FP 6CT MINI HONEY",
+    "category": "Family Pack",
+    "promoted_retail": 2.50,
+    "distributor_rebate": 0.37
+  },
+  {
+    "sku": "TK-FP-005",
+    "name": "TK FP DIPPN STICKS",
+    "category": "Family Pack",
+    "promoted_retail": 2.50,
+    "distributor_rebate": 0.37
+  },
+  {
+    "sku": "TK-FP-006",
+    "name": "TK MS 6CT SWEET RLLS",
+    "category": "Family Pack",
+    "promoted_retail": 3.00,
+    "distributor_rebate": 0.99
+  },
+  {
+    "sku": "TK-FP-007",
+    "name": "TK FP BARS",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-008",
+    "name": "TK FP CAKE - BTR CRE",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-009",
+    "name": "TK FP CAKE - BTRSCOT",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-010",
+    "name": "TK FP CAKE - CUPCAKE",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-011",
+    "name": "TK FP CAKE - PEANUT",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-012",
+    "name": "TK FP CAKE- SPINS",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-013",
+    "name": "TK FP CAKE - SWISS R",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-014",
+    "name": "TK FP - JUNIORS",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-015",
+    "name": "TK FP - KRIMPETS",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-016",
+    "name": "TK FP - REG KNDYKAK",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  },
+  {
+    "sku": "TK-FP-017",
+    "name": "TK FP - SEAS KNDYKAK",
+    "category": "Family Pack",
+    "promoted_retail": 4.49,
+    "distributor_rebate": 0.50
+  }
+]
